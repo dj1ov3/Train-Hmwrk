@@ -1,0 +1,15 @@
+body{
+    background-image: url("../../assets/images/station.jpg");
+}
+
+.card-primary,
+#cardTop, 
+#train-table{
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+}
+
+
+#addTrain{
+    margin-top: 20px;
+}
